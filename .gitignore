@@ -1,5 +1,8 @@
 # data
-data/Processed_K50_dG_datasets/
 data/ds23_sm_resampled.csv
-data/misc/
+data/ds23_sm.csv
+data/ds23_sm.pth
+
+checkpoints/
+
 wandb/
