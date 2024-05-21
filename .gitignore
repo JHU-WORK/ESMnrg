@@ -1,0 +1,5 @@
+# data
+data/Processed_K50_dG_datasets/
+data/ds23_sm_resampled.csv
+data/misc/
+wandb/

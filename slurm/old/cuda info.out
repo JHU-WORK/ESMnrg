@@ -1,0 +1,7 @@
+CUDA Available: True
+Number of GPUs: 1
+GPU 0: NVIDIA A100-SXM4-80GB MIG 1g.10gb
+  - Memory Allocated: 0.00 MB
+  - Memory Cached: 0.00 MB
+  - Total Memory: 9728.00 MB
+  - CUDA Capability: (8, 0)
