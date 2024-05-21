@@ -1,8 +1,4 @@
 # data
 data/ds23_sm_resampled.csv
-data/ds23_sm.csv
-data/ds23_sm.pth
-
-checkpoints/
 
 wandb/
